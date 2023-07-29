@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">हमारा नगर</string>
+
+    <string name="button_text" translatable="true">आगे बढे</string>
+
+    <string name="text1">हम जुड़ते हैं</string>
+    <string name="text2">हम समाधान करते हैं</string>
+    <string name="text3">हम सुनते हैं</string>
+    <string name="text4">हम सूचित करते हैं</string>
+
+    <string name="phoneNumber">फ़ोन नंबर</string>
+
+    <string name="terms_conditions">जारी रखकर, आप हमारे नियमों और शर्तों और गोपनीयता नीति से सहमत हैं</string>
+</resources>
